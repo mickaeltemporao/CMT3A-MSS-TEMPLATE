@@ -2,16 +2,25 @@ Groupe : A.1-4
 
 Étudiants : 
 
-  - 
-  - ...
+- 
+- ...
+
+
+
   
-# Titre du rapport de lecture
+# Rapport de lecture - Titre de l'article
 
-## Sujet - problématique
+## Citation : 
 
-## Méthodologie (quali, quanti, autre?, pourquoi?)
+...
 
-## Principaux résultats
+## Sujet ou problématique
+
+## Méthodologie 
+
+Quali, quanti, autre?, pourquoi?
+
+## Principaux résultats et contribution
 
 ## Contribution de l'article
 
