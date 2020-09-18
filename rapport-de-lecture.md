@@ -20,6 +20,7 @@ Groupe : A.1-4
 
 ### Attention (à supprimer par l'étudiant)!
 
-- Entre 250 et 500 mots soit 5 paragraphes ou 1 pages.
+Le rapport de lecture doit faire entre 250 et 500 mots soit 5 paragraphes ou 1 page.
+- 1 page = ~ 5 paragrephes
 - 1 paragraphe = ~ 5 phrases
-- 1 phrase = ~ 16 mots
+- 1 phrase = ~ 20 mots
