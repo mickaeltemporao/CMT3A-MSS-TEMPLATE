@@ -5,8 +5,6 @@ Groupe : A.1-4
 - 
 - ...
 
-
-
   
 # Rapport de lecture - Titre de l'article
 
