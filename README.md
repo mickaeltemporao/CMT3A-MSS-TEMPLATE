@@ -19,24 +19,22 @@ Groupe : A.1-4
 
 ## Citation 
 
-...
+"..."
 
-# Sujet ou problématique
+# Sujet/Thème/Problématique
 
-...
+Sur quel sujet porte l'article? À quel problème s'intéressent les auteurs?
 
-# Méthodologie 
+# Méthodologie
 
-Quali, quanti, autre?, pourquoi?
+Est-ce un article empirique? 
+- Si oui est-il qualitatif, quantitatif, pourquoi?
+- Sinon pourquoi?
 
-# Principaux résultats
+# Résultats/Contribution
 
-...
+Que nous apprends cet article?
 
-# Contribution de l'article
+# Retour critique/Limites
 
-...
-
-# Limites - Critique
-
-...
+Quels sont les limites de l'article? Comment pourrait-on l'améliorer?
