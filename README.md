@@ -1,4 +1,4 @@
-# Consignes à supprimer
+# Consignes à supprimer par l'étudiant
 
 Le rapport de lecture doit faire **1 page**.
 
