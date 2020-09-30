@@ -19,7 +19,7 @@ Groupe : A.1-4
 
 ## Citation 
 
-> *"Lorem ipsum dolor sit amet, consectetur adipiscing elit."*
+> *"Lorem ipsum dolor sit amet, consectetur adipiscing elit."* (Auteur, Année, p.XX)
 
 # Thème et résumé
 
