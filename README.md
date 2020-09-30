@@ -44,3 +44,6 @@ Phasellus rutrum vehicula dolor, vel interdum erat. Interdum et malesuada fames 
 - Quels sont les forces et limites de l'article? Où s'insère cet article?
 
 Curabitur eros purus, commodo eget ligula non, condimentum luctus nulla. Sed lacinia libero non mauris tempor ultrices. Suspendisse eget accumsan mauris. Etiam eu bibendum turpis. Pellentesque vel mauris dolor. Donec ullamcorper vehicula ornare. Sed hendrerit arcu sit amet facilisis tristique. Pellentesque tincidunt velit ut vulputate sodales. Phasellus gravida id mi vel ornare. Nulla gravida bibendum orci at cursus. Integer dictum, sapien sit amet ullamcorper imperdiet, lectus elit pellentesque diam, vitae hendrerit ante purus ac mi. Vestibulum nec rhoncus turpis, dignissim euismod sem. Proin vitae eleifend massa. Sed iaculis risus eu pretium feugiat.
+
+# Bibliographie
+
