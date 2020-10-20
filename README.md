@@ -46,6 +46,8 @@ Phasellus rutrum vehicula dolor, vel interdum erat. Interdum et malesuada fames 
 Curabitur eros purus, commodo eget ligula non, condimentum luctus nulla. Sed lacinia libero non mauris tempor ultrices. Suspendisse eget accumsan mauris. Etiam eu bibendum turpis. Pellentesque vel mauris dolor. Donec ullamcorper vehicula ornare. Sed hendrerit arcu sit amet facilisis tristique. Pellentesque tincidunt velit ut vulputate sodales. Phasellus gravida id mi vel ornare. Nulla gravida bibendum orci at cursus. Integer dictum, sapien sit amet ullamcorper imperdiet, lectus elit pellentesque diam, vitae hendrerit ante purus ac mi. Vestibulum nec rhoncus turpis, dignissim euismod sem. Proin vitae eleifend massa. Sed iaculis risus eu pretium feugiat.
 
 # Bibliographie
-King, G., Keohane, R. O., & Verba, S. (1994). *Designing social inquiry: Scientific inference in qualitative research.* Princeton university press.
+Doe, J. (1995). *Helping Students Doing Research: Designing a Template.* Some University Press.
 
-Brady, H. E., & Collier, D. (Eds.). (2010). *Rethinking social inquiry: Diverse tools, shared standards.* Rowman & Littlefield Publishers.
+Doe, J. (1995). *Helping Students Doing Research: Designing a Template.* Some University Press.
+
+Doe, J. (1995). *Helping Students Doing Research: Designing a Template.* Some University Press.
