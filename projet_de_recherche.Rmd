@@ -4,6 +4,7 @@ output:
 pdf_document:
 number_sections: true
 bibliography: reference.bib
+
 # Introduction
 Lorem blablabal, cite [@author2000key; @author2010key].
 
