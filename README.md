@@ -4,8 +4,9 @@ Ce dossier contient le code de démarrage pour différentes activités pour la c
 
 ## Structure
 
-Dossier
+
 ```
+Dossier
 ├── README.md                   - Ce document
 ├── projet_de_recherche_TP1.Rmd - Le modèle à utiliser pour les projets de recherche.
 ├── rapport_de_donnees_TP2.Rmd  - Le modèle à utiliser pour les rapports de données.
