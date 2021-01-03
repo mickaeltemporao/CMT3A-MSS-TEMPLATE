@@ -1,6 +1,6 @@
 # Méthodes des sciences sociales
 
-Ce dossier contient le code de démarrage pour différentes activités pour la conférence de méthodes des sciences sociales.
+Ce dossier contient le code de démarrage pour les différentes activités de la conférence de méthodes des sciences sociales.
 
 ## Structure
 
