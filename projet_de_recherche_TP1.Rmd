@@ -43,7 +43,7 @@ Présentez vos données et votre démarche méthodologique. Similaire à une rec
 - Où vous vous situez en tant que chercheur par rapport au sujet étudié?
 - Comment allez-vous gérer et stocker les données que vous collectez (sécuriser les données)?
 
-## Discussion (1 à 2 paragraphes)
+# Discussion (1 à 2 paragraphes)
 
 Présentez vos attentes en termes de résultats (aides vous de vos hypothèses).
 
@@ -52,8 +52,8 @@ Présentez vos attentes en termes de résultats (aides vous de vos hypothèses).
 - Comment pourrait l'améliorer davantage?
 - Que pourrait-on changer ou faire différemment?
 
-## Bibliographie
+# Bibliographie
 - Vous devez lister TOUTES les sources auxquelles vous faites référence directement ou indirectement dans votre projet.
-- Que ce soit pour les citations et la bibliogrpahie vous devez utiliser le format
-    - APA: https://www.mendeley.com/guides/apa-citation-guide
+- Vous devez utiliser le format APA tant pour les citations que pour la bibliogrpahie.
+    - Voir https://www.mendeley.com/guides/apa-citation-guide
 
