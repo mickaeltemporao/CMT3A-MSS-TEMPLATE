@@ -2,6 +2,7 @@
 title: "Titre du project"
 subtitle: "Rapport de Recherche - Groupe ..."
 author: "Nom Prénom, Nom Prénom et ..."
+bibliography: references.bib
 ---
 
 # Introduction

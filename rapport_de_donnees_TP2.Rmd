@@ -2,6 +2,7 @@
 title: "Titre du project"
 subtitle: "Rapport de collecte - Groupe ..."
 author: "Nom Prénom, Nom Prénom et ..."
+bibliography: references.bib
 ---
 
 Commencez par rappeler votre problématique/question de recherche et vos hypothèses en deux ou trois phrases.
