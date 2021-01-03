@@ -1,57 +1,16 @@
 ---
 title: "Titre du project"
-subtitle: "Rapport de collecte - Groupe ..."
+subtitle: "Rapport de Recherche - Groupe ..."
 author: "Nom Prénom, Nom Prénom et ..."
 ---
 
-Commencez par rappeler votre problématique/question de recherche et vos hypothèses en deux ou trois phrases.
+# Introduction
 
+# Données et méthode
 
-# Données
+# Analyse et résultats
 
-- Quels types de données avez-vous utilisées/collectées?
-- Comment est-ce que ces données ont été générées?
-    - Quel est le processus systématique qui permet de générer ces données?
-
-## Variable dépendante?
-- Quel est votre variable dépendante?
-    - Quel est le phénomène que vous tentez d'expliquer?
-- Quels critères avez-vous utilisés pour décider des observations/cas qui font partie de votre échantillon?
-
-## Variable indépendante
-- Quelle est votre variable indépendante principale?
-    - Quels est le facteur clé, mise en avant dans votre hypothèse, et pouvant avoir un effet sur votre variable dépendante?
-- Quels critères avez-vous utilisés pour décider des observations/cas qui font partie de votre échantillon?
-
-## Présentation des variables contrôle
-- Quelles sont les autres facteurs, pouvant également avoir un effet sur votre variable dépendante?
-    - Utilisez votre ancrage théorique pour identifier les variables contrôle pertinentes.
-- Quels critères avez-vous utilisés pour décider des observations/cas qui font partie de votre échantillon?
-
-
-# Méthodes
-- Comment prévoyez vous d'analyser ces données?
-- Est-ce que vous prévoyez d'effectuer des transformation particulières à vos données?
-- Quelle méthode allez vous employer pour tester votre hypothèse?
-
-# Statistiques descriptives
-
-Dans cette partie vous présentez des statistiques descriptives à l'aide de tableaux, d'images ou de simples phrases.
-
-- Combien d'observations/cas avez-vous au départ?
-- Combien d'observations/cas avez-vous au final?
-- Quel est le types des différentes variables retenues?
-- Comment est-ce que ces différentes variables sont distribuées?
-
-# Retour critique
-
-- Pourquoi est-ce que les variables choisies vont vous permettre de tester vos hypothèses?
-- Est-ce que vous avez rencontré des problèmes lors de la préparation des données?
-- Quels sont les limites de vos données et méthode par rapport à votre problématique?
-
+# Conclusion et discussion
 
 # Bibliographie
-- Vous devez lister TOUTES les sources auxquelles vous faites référence directement ou indirectement dans votre projet.
-- Vous devez utiliser le format APA tant pour les citations que pour la bibliogrpahie.
-    - Voir https://www.mendeley.com/guides/apa-citation-guide
 
